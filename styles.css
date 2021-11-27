@@ -1,3 +1,15 @@
-h1{
-    text-align: center;
+.post-footer {
+    background: #F6F6F6;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    bottom: 0;
+}
+
+.post-footer-logo {
+    font-size: 1rem;
+    font-weight: bold;
+    margin: auto;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 }
