@@ -13,3 +13,33 @@
     margin: auto;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+#logo{
+    height: 30%;
+    width: 30%;
+    margin-left: 90%;
+}
+#navlist{
+    margin-left: 3%;
+  padding: 0;
+  overflow: hidden;
+}
+#navlist1{
+    margin: 0;
+  padding: 0;
+  overflow: hidden;
+    margin-left: 40%;
+}
+
+li {
+  float: left;
+}
+#li a{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+   padding:6px;
+    display: flex;
+}
+#logo {
+    
+}
